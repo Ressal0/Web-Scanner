@@ -24,12 +24,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/WebsiteScanner.git
+   git clone https://github.com/Ressal0/Web-Scanner.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd WebsiteScanner
+   cd Web-Scanner
    ```
 
 3. Install the required Python packages:
