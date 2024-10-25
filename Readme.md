@@ -78,6 +78,3 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 - Abdellah Ressal
 - Bouslam Elmehdi (https://github.com/Mido-Hyuga)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
