@@ -47,7 +47,7 @@ To run the WebsiteScanner:
 
 2. Run the following command:
    ```
-   python websitescanner.py
+   python web-scanner.py
    ```
 
 3. In the application window:
